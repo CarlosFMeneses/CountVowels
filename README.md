@@ -5,4 +5,4 @@ Enter a string and the program counts the number of vowels in the text. Also, re
 
 _from [Martyr2'S Mega Project Ideas List!](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list "Martyr2'S Mega Project Ideas List!")_
 
-![https://wakatime.com/](wakatime.com/share/@CarlosFMeneses/eed70d5c-2059-4f36-bb3b-bb860329b95a.png "https://wakatime.com/")
+[![wakatime chart](https://wakatime.com/share/@CarlosFMeneses/e9dcd040-4db7-4d0d-9869-e721a924d8a3.png)](https://wakatime.com)
